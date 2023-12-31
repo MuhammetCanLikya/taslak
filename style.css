@@ -5,6 +5,8 @@
     --clr-gold: #c59d5f;
 }
 
+
+
 .menu {
   display: none;
 }
@@ -134,3 +136,9 @@ img {
   color: var(--wesbos);
   margin: 0;
 }
+
+.my-default-font {
+  color: var(--wesbos);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  /* veya font-family: serif; */
+}
+
